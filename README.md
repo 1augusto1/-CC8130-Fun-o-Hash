@@ -1,4 +1,6 @@
-# CC8130 - SEGURANÇA NA INFORMAÇÃO - Atividade 2: Função Hash
+# CC8130 - SEGURANÇA NA INFORMAÇÃO 
+
+## Atividade 2: Função Hash
 
 Para as frases abaixo, estão listados os hashs SHA256 e o MD5 (as aspas foram usadas apenas como delimitador e não devem ser consideradas no cálculo do HASH).
 
